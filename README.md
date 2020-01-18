@@ -1,4 +1,4 @@
-# hurst_trading
+# hurst_trading [ON HOLD FOR NOW]
 Environment and models for reinforcement learning applied to trading synthetic signals with statistical autocorrelations.
 
 Fractional Brownian motion (fBM) is a variant of standard Brownian motion that replaces the independant Gaussian increments with correlated noise.
