@@ -9,7 +9,7 @@ Using the autocorrelogram of a fBM price, one can design an automated trading st
 
 ## generate_price_paths
 
-Samples multiple realizations of fBM (using https://github.com/sauxpa/Quant/tree/master/ito_diffusions) and stores them in a pandas.DataFrame.
+Samples multiple realizations of fBM (using https://github.com/sauxpa/stochastic/tree/master/ito_diffusions) and stores them in a pandas.DataFrame.
 
 ## env
 
